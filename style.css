@@ -15,7 +15,7 @@ p{
 span{
     color: salmon;
 }
-.top-section{
+.section-part{
     display: flex;
     margin-bottom: 100px;
     padding-left: 20px;
@@ -31,7 +31,14 @@ span{
     text-decoration: none;
     background-image: linear-gradient(lightseagreen, dodgerblue);
     color: white;
-    padding: 15px;
+    padding: 20px;
     margin: 10px;
     border-radius: 35px;
+    word-spacing: 3px;
+}
+#banner{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px 780px;
+    
 }
