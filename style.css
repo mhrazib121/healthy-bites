@@ -86,9 +86,34 @@ h3{
     padding-left: 5px;
     border-radius:10px;
 }
+#text-alin{
+    text-align: center;
+    margin: 150px 0px 50px;
+}
+.testimonials{
+    text-align: center;
+    margin: 0px 350px 300px 350px ;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.testimonials img{
+    width: 250px;
+}
 footer{
     background-color: dodgerblue;
     text-align: center;
     margin-top: 80px;
     padding: 20px;
+}
+.counter{
+    display: flex;
+    margin: 100px;
+    height: 200px;
+    box-shadow: 5px 5px 50px;
+    border-radius: 10px;
+}
+.counter-items{
+    margin: 60px;
+    padding: 10px
 }
