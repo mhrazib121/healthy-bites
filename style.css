@@ -4,7 +4,7 @@
     font-family: 'Roboto', sans-serif;;
 }
 .manu-bar{
-    padding: 3%;
+    padding: 50px 50px 0px;
     text-align: right;
 }
 .manu-bar ul li{
@@ -19,7 +19,11 @@
 .manu-bar ul li a:hover{
     color: crimson;
 }
-
+#logo{
+    width: 200px;
+    top: 0px;
+    left:0px;
+}
 h1{
     font-size: 52px;
     margin-top: 50px;
