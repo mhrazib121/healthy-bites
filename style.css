@@ -3,6 +3,23 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;;
 }
+.manu-bar{
+    padding: 3%;
+    text-align: right;
+}
+.manu-bar ul li{
+     display: inline;
+    text-decoration: none;    
+}
+.manu-bar ul li a{
+    text-decoration: none;
+    color:dodgerblue;
+    padding:30px
+}
+.manu-bar ul li a:hover{
+    color: crimson;
+}
+
 h1{
     font-size: 52px;
     margin-top: 50px;
@@ -68,4 +85,10 @@ h3{
     height: 200px;
     padding-left: 5px;
     border-radius:10px;
+}
+footer{
+    background-color: dodgerblue;
+    text-align: center;
+    margin-top: 80px;
+    padding: 20px;
 }
